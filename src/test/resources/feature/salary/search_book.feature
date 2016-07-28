@@ -11,24 +11,20 @@ Scenario:
 Given a $100 microwave was sold on 2015-11-03
 And today is 2015-11-18
 
-
 @SC_520423610
 Scenario: 
 Given a $100 microwave was sold on 2015-11-03
 And today is 2015-11-18
-
 
 @SC_620310651
 Scenario: 
 Given a $100 microwave was sold on 2015-11-03
 And today is 2015-11-18
 
-
 @SC_asdadsc5
 Scenario: 
 Given a $100 microwave was sold on 2015-11-03
 And today is 2015-11-18
-
 
 @SC_asdadsdfc6
 Scenario: Search books by publication year
@@ -41,28 +37,23 @@ And Book 1 should have the title 'Some other book'
 And Book 2 should have the title 'One good book'
 Then i want do smth with "smth"
 
-
 @SC_464534555
 Scenario: 
 Given a $100 microwave was sold on 2015-11-03
 And today is 2015-11-18
-
 
 @SC_480909077
 Scenario: 
 Given a $100 microwave was sold on 2015-11-03
 And today is 2015-11-18
 
-
 @SC_927875014
 Scenario: 
 Given a $100 microwave was sold on 2015-11-03
 And today is 2015-11-18
 
-
 @SC_385959493
 Scenario: 
 Given a $100 microwave was sold on 2015-11-03
 And today is 2015-11-18
-
 
