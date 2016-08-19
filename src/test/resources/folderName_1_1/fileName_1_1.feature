@@ -1,4 +1,4 @@
-@ST_1006367222 @tag2
+@tag2 @ST_1006367222
 Feature: featureName_1_1
 test1
 
@@ -7,11 +7,12 @@ backgroundDescription
 Given step
 And another <step>
 
-@tag1 @SC_1069312549
-Scenario Outline: scenarioName
-scenarioDescription
+@SC_1069312549 @tag1 @tag2
+Scenario Outline: scenarioName1
+scenarioDescription1
 Given step
 And another <step>
+And one more step
 
 Examples: 
 |step|
