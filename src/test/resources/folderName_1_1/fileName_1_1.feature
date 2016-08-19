@@ -1,4 +1,4 @@
-@ST_1006367222
+@ST_1006367222 @tag2
 Feature: featureName_1_1
 test1
 
