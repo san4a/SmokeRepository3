@@ -1,4 +1,4 @@
-@ST_267496246
+@ST_316373893
 Feature: Auto test feature
 
 Background: bg
@@ -6,53 +6,4 @@ Background: bg
 Given test
 And test2
 When test2222
-
-@SC_280565943
-Scenario: Smoke scenarioddddff
-sdfsdfsggg
-Given test
-And test2
-When test
-
-@SC_296630613
-Scenario: 33
-sdfsdfsgggg
-Given test
-And testnew
-When test
-
-@SC_274196378
-Scenario: 4
-sdfsdfsggg
-Given test
-And test2
-When test
-
-@SC_290770667
-Scenario: 5
-sdfsdfsggg
-Given test
-And test2
-When test
-
-@SC_241062512
-Scenario: 6
-sdfsdfsggg
-Given test
-And test2
-When test
-
-@SC_275066452
-Scenario: 7
-sdfsdfsggg
-Given test
-And test2
-When test
-
-@SC_232420172
-Scenario: 8
-sdfsdfsggg
-Given test
-And test2
-When test
 
