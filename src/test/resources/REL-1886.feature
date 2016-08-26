@@ -107,3 +107,9 @@ Given test
 And test2
 When test2222
 
+@SC_302843181
+Scenario: New Scenario
+descr
+Given something
+And anything
+
