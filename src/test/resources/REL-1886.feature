@@ -14,3 +14,10 @@ Given test
 And test2
 When test
 
+@SC_388123937
+Scenario: 33
+sdfsdfsgggg
+Given test
+And testnew
+When test
+
