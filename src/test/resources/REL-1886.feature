@@ -95,3 +95,9 @@ Scenario: asdasd
 When asd
 Then aldksj
 
+@SC_332788944
+Scenario: bg
+Given test
+And test2
+When test
+
