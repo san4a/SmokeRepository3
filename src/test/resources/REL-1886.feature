@@ -35,3 +35,10 @@ Given test
 And test2
 When test
 
+@SC_384420655
+Scenario: 6
+sdfsdfsggg
+Given test
+And test2
+When test
+
