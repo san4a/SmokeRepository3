@@ -101,3 +101,9 @@ Given test
 And test2
 When test
 
+@SC_313918824
+Scenario: bg
+Given test
+And test2
+When test2222
+
