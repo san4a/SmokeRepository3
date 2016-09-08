@@ -2,7 +2,8 @@
 Feature: featureName_1
 test
 
-Background:
+Background: 
+
 Given step
 And another <step>
 
@@ -12,11 +13,9 @@ asdasdsad
 Given s
 And s
 
-
 @SC_949537331
 Scenario: backgroundName
 backgroundDescription
 Given step
 And another <step>
-
 
