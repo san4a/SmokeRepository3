@@ -1,4 +1,3 @@
-@ST_AutomationFeature2
 Feature: Salary Management
 
 Scenario: Modify an employee's salary
